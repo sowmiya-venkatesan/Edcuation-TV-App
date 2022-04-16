@@ -43,12 +43,12 @@ UI/UX Design
 
 ## Screenshots and reference Images
 
-
+![Uploading ScreenShot.png…]()
 
 ## Links and References: 
 
 - [Devfolio](your_devfolio_link_here)
 
-- [GitHub](https://github.com/sowmiya-venkatesan/Edcuation-TV-App)
+- [GitHub](https://github.com/sowmiya-venkatesan/LearnBuddy)
 
 - [Youtube](your_demo_video_link_here)
