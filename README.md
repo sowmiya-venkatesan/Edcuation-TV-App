@@ -10,9 +10,6 @@ UI/UX Design
 
 ## Team Description
 
-Team Member Name: Sowmiya V
-Team Member GitHub: https://github.com/sowmiya-venkatesan
-Team Member Socials: Twitter/Linkedin/DiscordTag
 <table>
   <tr>
     <th>Team Member Name</th>
@@ -23,18 +20,18 @@ Team Member Socials: Twitter/Linkedin/DiscordTag
     <td>Sowmiya V </td>
     <td>https://github.com/sowmiya-venkatesan</td>
     <td>
-      - [Twitter](https://twitter.com/im_sowmiya)
-      - [Linkedin](https://www.linkedin.com/in/sowmiyavenkatesan/)
-      - [Discord Tag : Sowmiya V#1169]
+      - Twitter : https://twitter.com/im_sowmiya
+      - Linkedin : https://www.linkedin.com/in/sowmiyavenkatesan/
+      - Discord Tag : Sowmiya V#1169
     </td>
   </tr>
   <tr>
     <td>Umabharathi B</td>
     <td>https://github.com/sowmiya-venkatesan</td>
     <td>
-      - [Twitter](https://twitter.com/im_sowmiya)
-      - [Linkedin](https://www.linkedin.com/in/sowmiyavenkatesan/)
-      - [Discord Tag : Sowmiya V#1169]
+      - Twitter : https://twitter.com/B_umabharathi
+      - Linkedin : https://www.linkedin.com/in/umabharathi-baskaran-146a47192/
+      - Discord Tag : Uma#7521
     </td>
   </tr>
 
