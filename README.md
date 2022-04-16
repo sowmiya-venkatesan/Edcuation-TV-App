@@ -21,7 +21,9 @@ UI/UX Design
     <td>https://github.com/sowmiya-venkatesan</td>
     <td>
       - Twitter : https://twitter.com/im_sowmiya
+      
       - Linkedin : https://www.linkedin.com/in/sowmiyavenkatesan/
+      
       - Discord Tag : Sowmiya V#1169
     </td>
   </tr>
@@ -30,7 +32,9 @@ UI/UX Design
     <td>https://github.com/sowmiya-venkatesan</td>
     <td>
       - Twitter : https://twitter.com/B_umabharathi
+      
       - Linkedin : https://www.linkedin.com/in/umabharathi-baskaran-146a47192/
+      
       - Discord Tag : Uma#7521
     </td>
   </tr>
