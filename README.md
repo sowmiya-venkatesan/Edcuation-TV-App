@@ -1,33 +1,27 @@
 # Edcuation-TV-App
 
-## Title
+## Problem Statement
 
-``Designing a UI/UX Screens for TV App to stream education videos for students of rural india``
+Designing a UI/UX Screens for TV App to stream education videos for students of rural india
 
 ## Tech Stack Used
 
-``It includes the technological aspect of your project submitted``
+UI/UX Design
 
 ## Team Description
 
-``It includes all your team members information in the following format: ``
-
-```
-Team Member Name: 
-Team Member GitHub: 
+Team Member Name: Sowmiya V
+Team Member GitHub: https://github.com/sowmiya-venkatesan
 Team Member Socials: Twitter/Linkedin/DiscordTag
-```
-
-``NOTE: This information will only be used for official interaction purposes.``
 
 ## Screenshots and reference Images
 
-``It includes some screenshots and images of your project.``
+
 
 ## Links and References: 
 
 - [Devfolio](your_devfolio_link_here)
 
-- [GitHub](your_github_link_here)
+- [GitHub](https://github.com/sowmiya-venkatesan/Edcuation-TV-App)
 
 - [Youtube](your_demo_video_link_here)
