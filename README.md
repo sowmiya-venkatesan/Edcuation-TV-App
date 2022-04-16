@@ -1,4 +1,4 @@
-# Edcuation-TV-App
+# LearnBuddy
 
 ## Problem Statement
 
