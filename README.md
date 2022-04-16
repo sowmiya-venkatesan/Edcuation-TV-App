@@ -13,6 +13,32 @@ UI/UX Design
 Team Member Name: Sowmiya V
 Team Member GitHub: https://github.com/sowmiya-venkatesan
 Team Member Socials: Twitter/Linkedin/DiscordTag
+<table>
+  <tr>
+    <th>Team Member Name</th>
+    <th align ="left">Team Member GitHub</th>
+    <th align ="left">Team Member Socials</th>
+  </tr>
+  <tr>
+    <td>Sowmiya V </td>
+    <td>https://github.com/sowmiya-venkatesan</td>
+    <td>
+      - [Twitter](https://twitter.com/im_sowmiya)
+      - [Linkedin](https://www.linkedin.com/in/sowmiyavenkatesan/)
+      - [Discord Tag : Sowmiya V#1169]
+    </td>
+  </tr>
+  <tr>
+    <td>Umabharathi B</td>
+    <td>https://github.com/sowmiya-venkatesan</td>
+    <td>
+      - [Twitter](https://twitter.com/im_sowmiya)
+      - [Linkedin](https://www.linkedin.com/in/sowmiyavenkatesan/)
+      - [Discord Tag : Sowmiya V#1169]
+    </td>
+  </tr>
+
+  </table>
 
 ## Screenshots and reference Images
 
