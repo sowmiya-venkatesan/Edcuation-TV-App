@@ -43,7 +43,7 @@ Figma - UI/UX Design
 
 ## Screenshots and reference Images
 
-<img src="/image/ScreenShot.png" alt="Screenshot" width="1920" height="780">
+<img src="/image/ScreenShot.png" alt="Screenshot" width="1920" height="480">
 
 ## Links and References: 
 
