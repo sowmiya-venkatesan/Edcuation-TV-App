@@ -20,22 +20,22 @@ UI/UX Design
     <td>Sowmiya V </td>
     <td>https://github.com/sowmiya-venkatesan</td>
     <td>
-      - Twitter : https://twitter.com/im_sowmiya
-      
-      - Linkedin : https://www.linkedin.com/in/sowmiyavenkatesan/
-      
-      - Discord Tag : Sowmiya V#1169
+      <ul>
+      <li>Twitter : https://twitter.com/im_sowmiya</li>
+      <li>Linkedin : https://www.linkedin.com/in/sowmiyavenkatesan/</li>
+      <li>Discord Tag : Sowmiya V#1169</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td>Umabharathi B</td>
     <td>https://github.com/sowmiya-venkatesan</td>
     <td>
-      - Twitter : https://twitter.com/B_umabharathi
-      
-      - Linkedin : https://www.linkedin.com/in/umabharathi-baskaran-146a47192/
-      
-      - Discord Tag : Uma#7521
+      <ul>
+      <li>Twitter : https://twitter.com/B_umabharathi</li>
+      <li>Linkedin : https://www.linkedin.com/in/umabharathi-baskaran-146a47192/</li>
+      <li>Discord Tag : Uma#7521</li>
+      </ul>
     </td>
   </tr>
 
