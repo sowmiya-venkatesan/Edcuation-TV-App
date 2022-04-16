@@ -6,7 +6,7 @@ Designing a UI/UX Screens for TV App to stream education videos for students of 
 
 ## Tech Stack Used
 
-UI/UX Design
+Figma - UI/UX Design
 
 ## Team Description
 
